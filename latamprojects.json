@@ -1,0 +1,562 @@
+[
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F34e910d8bc4d4f749fb750f4fc22a806%2F95a521ec-fa57-46b3-be63-2e3655b4266e.jpeg&w=128&q=75",
+    "name": "BOBC Stablecoin",
+    "link": "https://devfolio.co/projects/bobc-0b92",
+    "description": "Overcollateralized stablecoin, pegged to the BOB (Bolivian Boliviano) and backed by ETH",
+    "author": "Rafael"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F440208da7ca6456a97df0cc6d38d2f50%2F8daca53e-f820-45b4-b25c-00e4c4f1b67d.jpeg&w=128&q=75",
+    "name": "BuildMyEvent",
+    "link": "https://devfolio.co/projects/buildmyevent-f991",
+    "description": "BuildMyEvent offers local organizers a secure, no-code platform for issuing NFT tickets at events in Latin America, with easy integration of our NFT ticketing API into your website.",
+    "author": "BuildMyEvent"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "AI Agent for Coinbase Wallet",
+    "link": "https://devfolio.co/projects/builtin-ai-agent-for-coinbase-wallet-6734",
+    "description": "Simplifying crypto for LATAM through real-time AI-powered voice interactions",
+    "author": "Gonzalo"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Sembrando el cambio with El chico de las plantas",
+    "link": "https://devfolio.co/projects/sembrando-el-cambio-with-el-chico-de-las-plantas-fb5b",
+    "description": "An onchain platform to organize urban reforestation efforts, connect volunteers, and reward their participation, promoting environmental impact in Latin American cities, starting with Lima.",
+    "author": "Jean"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "OpenVino",
+    "link": "https://devfolio.co/projects/openvino-c995",
+    "description": "OpenVino provides Tokenization, Traceability, and Transparency for the wine world. \nFor this project we have developed new functionalities on Base!",
+    "author": "OpenVino"
+  },
+  {
+    "image": "Image not found",
+    "name": "CrediTalent",
+    "link": "https://devfolio.co/projects/credittalent-42f6",
+    "description": "Reputation-based loans connecting the Talent Passport/Builder Score to the amount of credit you can receive.",
+    "author": "CrediTalent"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fb9836258eddb42eab84570223dbbacf1%2Fb77e14a6-4fae-4eb1-9c54-b6ef544684b9.jpeg&w=128&q=75",
+    "name": "CLPD, The Chilean Peso Stablecoin.",
+    "link": "https://devfolio.co/projects/clpd-the-chilean-peso-stablecoin-d702",
+    "description": "CLPD is a fully backed 1:1 redeemable chilean peso stablecoin on Base. It makes easier the onboarding of chileans onchain in a safe, fast and easy way and will enable access for millions into DeFi.",
+    "author": "CLPToken"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F05a178804d994cc29061e4c0f221f620%2Fa09d9b0d-b051-4609-93e3-67de59bd4994.jpeg&w=128&q=75",
+    "name": "Bondi Finance",
+    "link": "https://devfolio.co/projects/bondi-finance-8d89",
+    "description": "Bondi Finance tokenizes corporate bonds to provide stable and high-yields, uncorrelated to crypto market conditions. We developed an insurance market (CDS) for bond tokens for this buildathon.",
+    "author": "Bondi"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fb583de11124742ca9d04b40e7108b413%2F5b9e34b3-85f2-4b5c-bc26-e93c3940f3bc.jpeg&w=128&q=75",
+    "name": "Patron",
+    "link": "https://devfolio.co/projects/vision-patron-75bd",
+    "description": "Patron is a gamified social platform where users support private communities, earn rewards using their NFT Shards, and build reputation through engagement",
+    "author": "Chris"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F0686bf83ac8348259eb2d7f9059699e1%2F9bbaea5c-2195-440d-9ac8-4c89e7ff50c2.jpeg&w=128&q=75",
+    "name": "Kobe",
+    "link": "https://devfolio.co/projects/kobe-4642",
+    "description": "Kobe is an automated platform that simplifies smart contract development on all EVM chains. Efficient, secure, and user-friendly, making blockchain application creation accessible to all developers.",
+    "author": "Kobe"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "BasedShop",
+    "link": "https://devfolio.co/projects/punksociety-a49e",
+    "description": "E-commerce dApp to sell products without intermediaries 💰",
+    "author": "Luciano"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "CoinShop",
+    "link": "https://devfolio.co/projects/mimo-6b6f",
+    "description": "From blockchain to doorstep !",
+    "author": "rafa"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fb583de11124742ca9d04b40e7108b413%2F5b9e34b3-85f2-4b5c-bc26-e93c3940f3bc.jpeg&w=128&q=75",
+    "name": "Patron",
+    "link": "https://devfolio.co/projects/vision-patron-75bd",
+    "description": "Patron is a gamified social platform where users support private communities, earn rewards using their NFT Shards, and build reputation through engagement",
+    "author": "Chris"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F0686bf83ac8348259eb2d7f9059699e1%2F9bbaea5c-2195-440d-9ac8-4c89e7ff50c2.jpeg&w=128&q=75",
+    "name": "Kobe",
+    "link": "https://devfolio.co/projects/kobe-4642",
+    "description": "Kobe is an automated platform that simplifies smart contract development on all EVM chains. Efficient, secure, and user-friendly, making blockchain application creation accessible to all developers.",
+    "author": "Kobe"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "SealedTrust",
+    "link": "https://devfolio.co/projects/sealedtrust-6d0a",
+    "description": "A decentralized platform for trustless deal-making, ensuring funds are only released when both parties meet the agreement.",
+    "author": "John"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Ramelax",
+    "link": "https://devfolio.co/projects/ramelax-797c",
+    "description": "WE ARE GOING TO TOKENIZE THE WORLD'S STOCK MARKETS",
+    "author": "Alexis"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "TxSentinel",
+    "link": "https://devfolio.co/projects/txsentinel-37a4",
+    "description": "Our dApp acts as a decentralized \"firewall\" for blockchain transactions, leveraging a network of agents to detect risks and reward them for protecting users from malicious contracts, fraud, or losses",
+    "author": "TxSentinel"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "TheBadge",
+    "link": "https://devfolio.co/projects/thebadge-590d",
+    "description": "TheBadge is a decentralized certification platform that provides the infrastructure for institutions, traditional & web3 companies, and final users to issue Web3 Certificates (NFT)",
+    "author": "TheBadge"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Mercado Santa Fe | Lending and borrowing for Latam",
+    "link": "https://devfolio.co/projects/mercado-mexico-or-lending-and-borrowing-for-latam-24f7",
+    "description": "Mercado México offers fixed-rate loans with predictable payment plans in MXN, using USDC as collateral and XOC stablecoin*, bridging DeFi and traditional finance for Mexican and Latam users.",
+    "author": "Mercado México"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Plasa",
+    "link": "https://devfolio.co/projects/plasa-ea45",
+    "description": "Real world governance.\nReal world organizations and communities onchain.\nSpaces, Stamps, and Points (voting power) earned through web2 credentials.",
+    "author": "Nico"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Roda: Onchain Credit",
+    "link": "https://devfolio.co/projects/roda-onchain-credit-e6dc",
+    "description": "We are displacing loan sharks in Colombia by providing affordable credit to delivery drivers, micro-entrepreneurs and immigrants. Putting the loanbook onchain helps us maintain interest rates low.",
+    "author": "roda"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "La Madriguera 💚🌳📱🔗",
+    "link": "https://devfolio.co/projects/la-madriguera-d11f",
+    "description": "Uniting Nature with the Blockchain 🌿💻\nLa Madriguera, a playground dedicated to outdoor recreation 🌳 and, at the same time, a space for blockchain adoption 🔗",
+    "author": "La Madriguera"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "CEIBA3.0",
+    "link": "https://devfolio.co/projects/ceiba-5d39",
+    "description": "The place where artists get empowered by blockchain technology and support the restoration of the environment through NFTs.",
+    "author": "ceiba3.0"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Universi.dad",
+    "link": "https://devfolio.co/projects/universidad-04bc",
+    "description": "Empowering Latin America through blockchain education in Spanish, focusing on Ethereum.",
+    "author": "Ruslan"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F55db0b20f37b4c5887aff862daadbc7f%2Fbcdd8082-c25b-4a0d-adb1-639189742f2e.jpeg&w=128&q=75",
+    "name": "Dobprotocol",
+    "link": "https://devfolio.co/projects/dobprotocol-9138",
+    "description": "Real-World Asset Management Onchain",
+    "author": "Dobprotocol"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F8057128f78df43f1bb0ccc816175d8cd%2F29faee90-4e64-4cfd-bba3-12188bd500e0.jpeg&w=128&q=75",
+    "name": "Vaquita",
+    "link": "https://devfolio.co/projects/vaquita-47d8",
+    "description": "Millions rely on informal savings circles like Pasanaku and Junta. Vaquita empowers these communities with a decentralized platform that improves security, transparency, and access to credit.",
+    "author": "Vaquita"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F74e60326a865478cb308175fd4fe0820%2Feaa9403d-976c-4f20-b8e3-6882eaf21bfc.jpeg&w=128&q=75",
+    "name": "BasedStreams",
+    "link": "https://devfolio.co/projects/streamad-1727",
+    "description": "StreamAD is a cutting-edge platform designed to revolutionize the digital marketing landscape.",
+    "author": "BasedTweet"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fc12ef6e8300846fc84654534edbe26cf%2Fafbac195-9f83-461a-955a-cba557da9dbf.jpeg&w=128&q=75",
+    "name": "Newtro LearnHub",
+    "link": "https://devfolio.co/projects/newtro-learnhub-628d",
+    "description": "Creating an educational platform for web3 latin american artists in our website, that integrates an AI chatbot, audiovisual tutorials and Learn & Earn mechanics.",
+    "author": "Newtro Arts"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F18c6a6fcb8ba4812879458ad1d119113%2F5826d16e-31bd-4a67-83b9-75aa928bdd9e.jpeg&w=128&q=75",
+    "name": "Atleta.tech",
+    "link": "https://devfolio.co/projects/atletatech-ab95",
+    "description": "Zora for athletes",
+    "author": "Atleta.tech"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F0acbee6170324b14b84dfab63dd70bbf%2F54041e09-92b8-4c36-b048-2b987a8adaf4.jpeg&w=128&q=75",
+    "name": "Drop your Demo by Crypto Musica Records",
+    "link": "https://devfolio.co/projects/crypto-musica-records-vol-9658",
+    "description": "Song competition - Powered by BASE, distribute to ZORA main and secondary markets, cleared by MESA.",
+    "author": "MESA"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fc11a02bbb95e403186f545de939db652%2F210d1dfe-e348-4e3f-989f-c494c05f7356.jpeg&w=128&q=75",
+    "name": "Cryptocall",
+    "link": "https://devfolio.co/projects/cryptocall-5351",
+    "description": "Learn about BASE and crypto just by talking on a phonecall",
+    "author": "Didier"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F18c6a6fcb8ba4812879458ad1d119113%2F5826d16e-31bd-4a67-83b9-75aa928bdd9e.jpeg&w=128&q=75",
+    "name": "Atleta.tech",
+    "link": "https://devfolio.co/projects/atletatech-ab95",
+    "description": "Zora for athletes",
+    "author": "Atleta.tech"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fc73a8c7c5f9d4b0d97d536aecab9220f%2F2fe4b38b-0be0-4130-92f7-f61432fc6ab4.jpeg&w=128&q=75",
+    "name": "ToGlow",
+    "link": "https://devfolio.co/projects/toglow-c6b5",
+    "description": "A platform showcasing women's contributions, eliminating bias with blockchain, connecting them to global opportunities, and transforming work by valuing contributions over titles.",
+    "author": "ToGlow"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fe32c1c6880bd4b6db52eb335693c913e%2Ff86fcb4a-2144-4cd5-8fa8-4eeecbaf1d31.jpeg&w=128&q=75",
+    "name": "Todo en Cadena",
+    "link": "https://devfolio.co/projects/todo-en-cadena-5070",
+    "description": "NFTs with Purpose: Empowering Shelters to Rescue and Care for Abandoned Dogs and Cats.",
+    "author": "Juan"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Ff5f3ce399929432995bf2fcdd608934b%2F8accf67b-877c-4d72-aaa3-10b448ac940c.jpeg&w=128&q=75",
+    "name": "Podit",
+    "link": "https://devfolio.co/projects/podit-1835",
+    "description": "We turn every Podcast episode into a NFT that any Podcaster can sell to monetize their show from day 1.",
+    "author": "Podit"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F94bc7caa7ae44b59bc490ce784953009%2F2eac7fbf-74b6-4db5-bb4e-b9ee8a891d63.jpeg&w=128&q=75",
+    "name": "Get on Boat",
+    "link": "https://devfolio.co/projects/get-on-boat-8875",
+    "description": "Get on Board, Get on Base, Get on Boat.\n\nIt is a platform that connects artists to the blockchain world, facilitating the creation, sale and protection of NFT works, with a focus on education.",
+    "author": "devplayersbase"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F3eab94a0c0ec47ee843680122ed62c5d%2F39026c03-8919-4bc0-90e9-20ea5de2a386.jpeg&w=128&q=75",
+    "name": "Metasuyo",
+    "link": "https://devfolio.co/projects/metasuyo-d2aa",
+    "description": "Open-source platform for phygital products, bridging cultural heritage with tokenized rewards",
+    "author": "Metasuyo"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F9e8a9eb56de146b7b3275f7f9b544f24%2F8791c8fd-c980-433e-8872-0ea1b62f7e2c.jpeg&w=128&q=75",
+    "name": "Sherry Contests",
+    "link": "https://devfolio.co/projects/sherry-contests-4deb",
+    "description": "Host viral contests, Boost engagement, Win Together",
+    "author": "Sherry"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fc12ef6e8300846fc84654534edbe26cf%2Fafbac195-9f83-461a-955a-cba557da9dbf.jpeg&w=128&q=75",
+    "name": "Newtro LearnHub",
+    "link": "https://devfolio.co/projects/newtro-learnhub-628d",
+    "description": "Creating an educational platform for web3 latin american artists in our website, that integrates an AI chatbot, audiovisual tutorials and Learn & Earn mechanics.",
+    "author": "Newtro Arts"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fb419720d33344701aef7896896147b5e%2Fa8f30155-5f58-4755-8833-510b1a24e8c3.jpeg&w=128&q=75",
+    "name": "DumbTransfers",
+    "link": "https://devfolio.co/projects/dumbtransfers-5493",
+    "description": "Natural Language transactions with AI",
+    "author": "Lautaro"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F90b1a45dbaec4f3a9f2dc63f0e860a98%2F1c57a45d-5e9d-4a5d-aaa3-7a5b5ea98e77.jpeg&w=128&q=75",
+    "name": "RBi Travel",
+    "link": "https://devfolio.co/projects/rbitravel-d615",
+    "description": "Revolutionizing International Journeys with tokenized RV Rentals",
+    "author": "Ekinoxis"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F8bb17e43e9334246a2384b52e9f37e06%2F076fabc7-92b9-4996-a3ae-a9ac29c20100.jpeg&w=128&q=75",
+    "name": "Monedero",
+    "link": "https://devfolio.co/projects/monedero-3aa0",
+    "description": "¡Bienvenido a Monedero, donde generas mientras duermes!",
+    "author": "Monedero"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F57168938f77f4c19978280c295c16d40%2F57ab07a5-49e5-498e-a4ad-9d5474156031.jpeg&w=128&q=75",
+    "name": "WagmiClub",
+    "link": "https://devfolio.co/projects/wagmiclub-9231",
+    "description": "Powering LATAM gig economy with on-chain proof of work.",
+    "author": "WagmiClub"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fb82a6b4d85ef4f8cba8c5207472358f2%2Fa2a66dd8-2e60-497f-86e0-8f378a8737f3.jpeg&w=128&q=75",
+    "name": "Buckspay",
+    "link": "https://devfolio.co/projects/buckspay-6dd4",
+    "description": "We simplify everyday payments by enabling real-time crypto transactions without fiat conversion, allowing merchants to accept payments without knowing they’re receiving crypto.",
+    "author": "Buckspay"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F5d3c47699e534bc4a3312021b738152e%2F4fb389ce-290e-4881-a8f1-1adac91651ef.jpeg&w=128&q=75",
+    "name": "Lander",
+    "link": "https://devfolio.co/projects/lander-dc15",
+    "description": "To empower modern travelers with rentals, real state tokenization, crypto payments and staking, Lander redefines security, speed, and user friendly interface, transforming traveler's experience",
+    "author": "Lander"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fae2b2d06831e422b97425d7106af2b4d%2F7213a877-4262-4869-90e8-ecc2d31df5cd.jpeg&w=128&q=75",
+    "name": "Piggy Wallet",
+    "link": "https://devfolio.co/projects/piggy-wallet-9ccb",
+    "description": "Piggy Wallet is a decentralized savings platform for families. Secure, educational, and fun way to manage crypto investments, set financial goals, and teach kids about finance.",
+    "author": "Piggy Wallet"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Ff599695b19bb4d12a369482b0fec0ff9%2Ffe888607-c718-4515-8e49-464f0c13e13e.jpeg&w=128&q=75",
+    "name": "SivarETH",
+    "link": "https://devfolio.co/projects/sivareth-769d",
+    "description": "SivarETH empowers small entrepreneurs and foundations in Web3, using the sale of NFTs as a way to raise funds and provide them with support.",
+    "author": "Juan"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F98e7df65adf147698b5736dd50352e76%2Ff0687f18-ee39-426d-bfc4-af9b6aa6ffe5.jpeg&w=128&q=75",
+    "name": "INCOMINT1.0",
+    "link": "https://devfolio.co/projects/incomint-813a",
+    "description": "What is INCOMINT 1. 0? In English, the acronym represent: Deployment of INCOTERM in Blockchain. As such\nINCOMINT 1.0 is a platform through which all documentations relevantto a commercial transition.",
+    "author": "Luis"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F3235836aca834e239cbaa11cbdce5d32%2F911e5af1-0284-499d-9b52-6c90f315941b.jpeg&w=128&q=75",
+    "name": "Nouns Center BTA Passport irl to Onchain POW",
+    "link": "https://devfolio.co/projects/nounsbase-center-bta-aeef",
+    "description": "We are creating a smart contract to validate the participation of artists, creators, e-sport players and builders on the Nouns Center BTA events as a POW Onchain through NFTs on their coinbase wallets",
+    "author": "Nouns BTA Crew"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F73ac608a86e34c4cad1e89e97e099d9a%2Fcbc3261e-4114-4c34-a921-51f92a66810e.jpeg&w=128&q=75",
+    "name": "Cultura INCS Based Bridges for Sensory Diversity",
+    "link": "https://devfolio.co/projects/cultura-incs-based-bridges-for-sensory-diversity-c069",
+    "description": "Blockchain-based initiative designed to raise awareness about the challenges faced by children with hearing and visual impairments, while creating innovative revenue streams for their institute.",
+    "author": "Cultura INCS"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "0xfoum",
+    "link": "https://devfolio.co/projects/xfoum-e2a2",
+    "description": "\"Building a secure and on-chain space for the tech community\"",
+    "author": "Andres"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Fungi Agent",
+    "link": "https://devfolio.co/projects/fungi-agent-defd",
+    "description": "Fungi is a DeFi AI Agent that enables users to perform on-chain transactions, execute automated DeFi strategies, and gain expert-level crypto insights through a simple, natural language interface.",
+    "author": "Andres"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Coin Leaders",
+    "link": "https://devfolio.co/projects/coin-leaders-7cc3",
+    "description": "Decentralized, gamified advertising through onchain payments on Base.",
+    "author": "PANTO"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "World Animal Registry",
+    "link": "https://devfolio.co/projects/world-animal-registry-cdbb",
+    "description": "The World Animal Registry (W.A.R.) is a global platform that enables the identification, traceability and protection of animals through blockchain technology, promoting animal welfare and safety.",
+    "author": "Julian"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Talaria",
+    "link": "https://devfolio.co/projects/talaria-f1e4",
+    "description": "Web3 Ops without the hassle of addresses",
+    "author": "Talaria"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Limate",
+    "link": "https://devfolio.co/projects/limate-98a4",
+    "description": "Proof it haps! Achieve the moment of meeting.",
+    "author": "Happ3n XYZ"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fce6df19ce7c34d7d8af80dcdeeccc14a%2Fa6048bbd-7e3a-4815-be07-3d78781669fd.jpeg&w=128&q=75",
+    "name": "Based Bets",
+    "link": "https://devfolio.co/projects/based-bets-2d81",
+    "description": "Bet your buddies, not your bookie.",
+    "author": "Original Degens"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fbba07925ac9940d0ac24dc21fee26324%2Ff50aa691-075a-43ab-b574-bfe6fdcca699.jpeg&w=128&q=75",
+    "name": "BooFi",
+    "link": "https://devfolio.co/projects/boofi-c307",
+    "description": "AI-powered 'Neobank Notion' where spooky crypto-finance becomes easy! BooFi is a friendly ghost guiding you through financial and project management, payments, remittances, loans and DeFi.",
+    "author": "Tomas"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fb4a6459c15364c89a0bcb1f7c4ab8ff9%2F88ae36e6-e885-439f-a218-ae217462dd45.jpeg&w=128&q=75",
+    "name": "Spira Network",
+    "link": "https://devfolio.co/projects/spira-network-a7e1",
+    "description": "Web3 social platform connecting LATAM's regenerative communities, fostering local impact through blockchain-powered interactions and circular economy principles.",
+    "author": "Spira"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F25b3da84344a4639893b6c2689ba0a9a%2F26376315-a380-4ef5-ad4a-6e0d6003880c.jpeg&w=128&q=75",
+    "name": "Cuchulink",
+    "link": "https://devfolio.co/projects/cuchulink-72f3",
+    "description": "Digitize your collective savings with the security and transparency of blockchain.",
+    "author": "Cuchulink"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F25b3da84344a4639893b6c2689ba0a9a%2F26376315-a380-4ef5-ad4a-6e0d6003880c.jpeg&w=128&q=75",
+    "name": "Cuchulink",
+    "link": "https://devfolio.co/projects/cuchulink-72f3",
+    "description": "Digitize your collective savings with the security and transparency of blockchain.",
+    "author": "Cuchulink"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "PPP 🐣",
+    "link": "https://devfolio.co/projects/ppp-bab5",
+    "description": "An app that allows users to set up and manage personal pension funds using any ERC-20 token",
+    "author": "Federico"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Monetizado",
+    "link": "https://devfolio.co/projects/monetizado-51fa",
+    "description": "Monetizado is an Engage to Earn system. On-chain pay-pew-view protocol for Web2 content creators.",
+    "author": "Néstor"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Web3 To Human Translator",
+    "link": "https://devfolio.co/projects/web-to-human-9b40",
+    "description": "Simplifying Web3 and blockchain for Spanish-speaking users in Latin America with AI-powered articles, explained in easy-to-understand language and stored on the blockchain for free access by all",
+    "author": "Fredy"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Faff7f999169a44dcbdbeeb2d7aa34733%2F190688b1-edd4-4e45-8f07-f55cc6f9f21a.jpeg&w=128&q=75",
+    "name": "vibecluv",
+    "link": "https://devfolio.co/projects/vibecluv-8839",
+    "description": "earn on your wild nights",
+    "author": "sunshine"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fbe1372428b6a44329b2e2b426d49d202%2F019e84d6-d2df-48e7-8aa7-20110e0bb0a8.jpeg&w=128&q=75",
+    "name": "Zeneca",
+    "link": "https://devfolio.co/projects/zeneca-d092",
+    "description": "Onchain banking for Latinos",
+    "author": "Zeneca"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F7396abd7706a4b21ab0f41a170c30b9b%2F1503b6ba-4db0-41ef-8177-44524002aaf4.jpeg&w=128&q=75",
+    "name": "SEAL Attendance",
+    "link": "https://devfolio.co/projects/seal-web-614f",
+    "description": "A Discord bot that validates community event attendance using account abstraction, attestations, and NFTs, visualized through a Farcaster frame.",
+    "author": "SEAL Web3"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F60919065d3694058893db05dfa79bb4d%2F214c027d-36a0-432d-a042-4964db5c9a90.jpeg&w=128&q=75",
+    "name": "TRANSPARENT PROCESS PROTOCOL",
+    "link": "https://devfolio.co/projects/transparetn-process-protocol-ced7",
+    "description": "TPP provides transparency to the processes of donations and business transactions, guaranteeing that donations and goods effectively reach their beneficiaries, generating validated receipts suitables",
+    "author": "Transparent Process Protocol"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2F697362554c02403aaa43362c8428e784%2Fcd789857-eca8-4efe-bc75-679d546e6d87.jpeg&w=128&q=75",
+    "name": "ESCUELA DE ARTE NOUNISH IRL BASADA ⌐◨-◨",
+    "link": "https://devfolio.co/projects/escuela-de-arte-nounish-irl-basada-646c",
+    "description": "Public good that offers scholarships in art and Web3. We have created an on-chain educational and commercial platform that connects your students and clients with Web3 tools.",
+    "author": "ESCUELA DE ARTE NOUNISH"
+  },
+  {
+    "image": "https://based-latam.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F6341560cd9784f7fa4f7377895fb2614%2Fprojects%2Fdf74f848555a4232ab218c711eab90c4%2Fab77c5ff-f72b-475f-81c3-65d3471b0336.jpeg&w=128&q=75",
+    "name": "Juntadas",
+    "link": "https://devfolio.co/projects/juntadas-d89e",
+    "description": "An app that connects strangers through dinners, promoting meaningful, low-risk networking with no cost beyond commitment.",
+    "author": "Arturo"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "VotacionOnChain",
+    "link": "https://devfolio.co/projects/votaciononchain-0baa",
+    "description": "Una plataforma para crear invitaciones a eventos y registrar la asistencia en la blockchain de manera segura y transparente.",
+    "author": "Jose"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Checkers based",
+    "link": "https://devfolio.co/projects/checkers-based-5c5b",
+    "description": "Blockchain-based Checkers game on the Base network",
+    "author": "Koka"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Transilvania Halloween",
+    "link": "https://devfolio.co/projects/transilvania-halloween-8c9d",
+    "description": "Transilvania Halloween: Bridging 14 years of tradition with the future of Web3, launching a memecoin on the BASE network and expanding into festivals, gaming, and education.",
+    "author": "Camilo"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Citizen.xyz",
+    "link": "https://devfolio.co/projects/citizenxyz-0973",
+    "description": "Empowering LATAM Communities with Transparent, Decentralized Governance.\nCitizen brings awareness and empowerment to DAOs and their members, ensuring trust and inclusivity in every step of governance.",
+    "author": "Purple"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Base LatAm Bridge",
+    "link": "https://devfolio.co/projects/base-latam-bridge-f742",
+    "description": "A simple and secure bridge for transferring assets from Ethereum to Base Layer 2 in Latin America.",
+    "author": "Bob"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Tuneport",
+    "link": "https://devfolio.co/projects/tuneport-7afb",
+    "description": "The new era of Streaming.\nWe’re redefining music, empowering artists, and connecting them with their fans.",
+    "author": "Fernando"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "MercaJade",
+    "link": "https://devfolio.co/projects/mercajade-4efb",
+    "description": "First marketplace for RWA in Base",
+    "author": "Axl"
+  },
+  {
+    "image": "Image not found",
+    "name": "Brain Storm",
+    "link": "https://devfolio.co/projects/brain-storm-5e6d",
+    "description": "A Fun Educative Social Media Study App",
+    "author": "Constant"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "Supply Cycle",
+    "link": "https://devfolio.co/projects/supply-cycle-6d77",
+    "description": "A tool to foster Effective Altruism Supply Chain's accountability using Blockchain, Attestations and Reputation mechanisms to ensure traceability, transparency and delivery.",
+    "author": "Supply Cycle"
+  },
+  {
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "name": "ChainRacer",
+    "link": "https://devfolio.co/projects/chainracer-b548",
+    "description": "Fuel Your Speed, Powered by Blockchain.",
+    "author": "BlockWizards"
+  }
+]
