@@ -1,30 +1,34 @@
 import puppeteer, { Browser, Page } from 'puppeteer';
 import fs from 'fs';
 
-interface Project {
-  image: string;
-  name: string;
+interface Course {
+  courseCode: string;
+  title: string;
   link: string;
-  description: string;
-  author: string;
+  instructor: string;
+  academicYear: string;
+  quarter: string;
+  days: string;
+  startTime: string;
+  endTime: string;
 }
 
-const scrapeProjects = async (): Promise<void> => {
+const scrapeCourses = async (): Promise<void> => {
   const browser: Browser = await puppeteer.launch({ headless: false });
   const page: Page = await browser.newPage();
-  const url: string = 'https://based-latam.devfolio.co/projects';
+  const url: string = 'https://history.stanford.edu/academics/current-courses'; // Replace with actual URL
   await page.goto(url);
 
   try {
-    await page.waitForSelector('.ProjectCard__StyledFlex-sc-ffb1cab2-4', { timeout: 50000 });
-    console.log('Initial project elements loaded');
+    await page.waitForSelector('.hb-table-row', { timeout: 50000 });
+    console.log('Initial course elements loaded');
   } catch (error) {
-    console.log('Initial project elements not found or timed out');
+    console.log('Initial course elements not found or timed out');
   }
 
-  const getProjectCount = async (): Promise<number> => {
+  const getCourseCount = async (): Promise<number> => {
     return await page.evaluate(() => 
-      document.querySelectorAll('.ProjectCard__StyledFlex-sc-ffb1cab2-4').length
+      document.querySelectorAll('.hb-table-row').length
     );
   };
 
@@ -43,7 +47,7 @@ const scrapeProjects = async (): Promise<void> => {
         await new Promise(resolve => setTimeout(resolve, 2000));
       } else {
         noChangeCount = 0;
-        console.log(`New content found. Current project count: ${await getProjectCount()}`);
+        console.log(`New content found. Current course count: ${await getCourseCount()}`);
       }
       
       previousHeight = currentHeight;
@@ -58,27 +62,33 @@ const scrapeProjects = async (): Promise<void> => {
   await autoScroll();
   await new Promise(resolve => setTimeout(resolve, 3000));
 
-  const projects: Project[] = await page.evaluate(() => {
-    const projectElements = document.querySelectorAll('.ProjectCard__StyledFlex-sc-ffb1cab2-4');
-    if (projectElements.length === 0) return [];
+  const courses: Course[] = await page.evaluate(() => {
+    const courseElements = document.querySelectorAll('.hb-table-row');
+    if (courseElements.length === 0) return [];
     
-    return Array.from(projectElements).map((project): Project => {
-      const image = (project.querySelector('img[alt="Project Image"]') as HTMLImageElement)?.src || 'Image not found';
-      const name = (project.querySelector('.ProjectCard__AnchorContainer-sc-ffb1cab2-0 a') as HTMLAnchorElement)?.textContent?.trim() || 'Name not found';
-      const link = (project.querySelector('.ProjectCard__AnchorContainer-sc-ffb1cab2-0 a') as HTMLAnchorElement)?.href || 'Link not found';
-      const description = (project.querySelector('.sc-dkzDqf.gWbMTA') as HTMLElement)?.textContent?.trim() || 'Description not found';
-      const author = (project.querySelector('.ProjectCard__BuilderText-sc-ffb1cab2-1') as HTMLElement)?.textContent?.trim() || 'Author not found';
-      return { image, name, link, description, author };
+    return Array.from(courseElements).map((row): Course => {
+      const courseCode = (row.querySelector('.views-field-field-hs-course-code .field-content')?.textContent?.trim() || 'N/A') as string;
+      const titleElement = row.querySelector('.views-field-title a');
+      const title = (titleElement?.textContent?.trim() || 'N/A') as string;
+      const link = (titleElement ? titleElement.getAttribute('href') : 'N/A') as string;
+      const instructor = (row.querySelector('.views-field-field-hs-course-section-instruc .field-content')?.textContent?.trim() || 'N/A') as string;
+      const academicYear = (row.querySelector('.views-field-field-hs-course-academic-year .field-content')?.textContent?.trim() || 'N/A') as string;
+      const quarter = (row.querySelector('.views-field-field-hs-course-section-quarter .field-content')?.textContent?.trim() || 'N/A') as string;
+      const days = (row.querySelector('.views-field-field-hs-course-section-days .field-content')?.textContent?.trim() || 'N/A') as string;
+      const startTime = (row.querySelector('.views-field-field-hs-course-section-st-time .field-content')?.textContent?.trim() || 'N/A') as string;
+      const endTime = (row.querySelector('.views-field-field-hs-course-section-end-time .field-content')?.textContent?.trim() || 'N/A') as string;
+
+      return { courseCode, title, link, instructor, academicYear, quarter, days, startTime, endTime };
     });
   });
 
-  console.log(`Total projects scraped: ${projects.length}`);
-  console.log(`First few projects: ${JSON.stringify(projects.slice(0, 3), null, 2)}`);
+  console.log(`Total courses scraped: ${courses.length}`);
+  console.log(`First few courses: ${JSON.stringify(courses.slice(0, 3), null, 2)}`);
 
-  fs.writeFileSync('latamprojects.json', JSON.stringify(projects, null, 2));
-  console.log('Data saved to latamprojects.json');
+  fs.writeFileSync('courses.json', JSON.stringify(courses, null, 2));
+  console.log('Data saved to courses.json');
 
   await browser.close();
 };
 
-scrapeProjects();
+scrapeCourses();
